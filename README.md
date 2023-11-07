@@ -1,0 +1,1 @@
+SplitShare is an open-source app built with Python and Django. It is designed to help you divide the cost of breakfast among your colleagues. The app provides various features such as Google login, workplace creation, and two methods for adding members: invitation links and email invitations.
